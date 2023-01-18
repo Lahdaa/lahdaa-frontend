@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://steviapro.com
+
+# Sitemaps
+Sitemap: https://steviapro.com/sitemap.xml
